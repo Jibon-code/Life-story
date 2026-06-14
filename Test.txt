@@ -1,5 +1,9 @@
 My Name is Jibon Chakraborty
 Student at Metropolitan University
+<<<<<<< HEAD
 My home district is SYlhet
 muy another name is jibon
 bal er poralkeha
+=======
+My home district is Sylhet
+>>>>>>> 54d5d190f57eec53e1c457fa889d9f4b74b01edf
